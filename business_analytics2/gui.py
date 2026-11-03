@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+'''
+A simple GUI generated with Claude Opus 5.5; will add programming logic to offer this as an alternative to the CLI.
+'''
+
 import sys
 
 from PyQt6.QtWidgets import (
